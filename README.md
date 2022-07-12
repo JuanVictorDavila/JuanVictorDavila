@@ -1,6 +1,6 @@
 ### Olá, Bem vindo ao meu GitHub 👋
 
-- 🌱 Estudando Typescript
+- 🌱 Estudando Typescript e MongoDB
 - 😄 Pronouns: Ele/dele
 
 <div align="center">
