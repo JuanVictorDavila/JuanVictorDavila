@@ -1,7 +1,7 @@
 ### Olá, Bem vindo ao meu GitHub 👋
-
-- 🌱 Estudando Typescript e MongoDB
-- 😄 Pronouns: Ele/dele
+- :nerd_face: BackEnd Developer
+- :writing_hand: Estudando Python
+- :boy: Pronouns: Ele/dele
 
 <div align="center">
   <a href="https://github.com/JuanVictorDavila">
