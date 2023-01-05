@@ -1,5 +1,6 @@
 ### Olá, Bem vindo ao meu GitHub 👋
 - :nerd_face: BackEnd Developer
+- :me aventurando no Vue
 - :writing_hand: Estudando Python
 - :boy: Pronouns: Ele/dele
 
