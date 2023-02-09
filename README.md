@@ -3,6 +3,7 @@
 - :smile: me aventurando no Vue
 - :writing_hand: Estudando Python
 - :boy: Pronouns: Ele/dele
+- :feather: juanvictor70@gmail.com
 
 <div align="center">
   <a href="https://github.com/JuanVictorDavila">
