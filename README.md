@@ -1,7 +1,7 @@
 ### Olá, Bem vindo ao meu GitHub 👋
 - :nerd_face: BackEnd Developer
 - :smile: me aventurando no Vue
-- :writing_hand: Estudando Python
+- :writing_hand: Estudando Java
 - :boy: Pronouns: Ele/dele
 - :feather: juanvictor70@gmail.com
 
