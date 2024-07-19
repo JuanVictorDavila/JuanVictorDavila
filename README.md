@@ -1,5 +1,5 @@
 ### Olá, Bem vindo ao meu GitHub 👋
-- :nerd_face: BackEnd Developer
+- :nerd_face: BackEnd e Profissional de Computação Forense
 - :smile: me aventurando no Vue
 - :writing_hand: Estudando Java
 - :boy: Pronouns: Ele/dele
